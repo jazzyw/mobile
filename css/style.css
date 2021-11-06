@@ -234,3 +234,13 @@ textarea {
 .ss {
     padding: 10px 20px;
 }
+
+label {
+    font-family: "Montserrat", sans-serif;
+}
+
+button {
+    padding: 5px 15px;
+    font-size: 15px;
+    font-family: "Montserrat", sans-serif;
+}
