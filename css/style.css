@@ -244,3 +244,11 @@ button {
     font-size: 15px;
     font-family: "Montserrat", sans-serif;
 }
+
+.large {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+
+    padding-bottom: 10px;
+}
